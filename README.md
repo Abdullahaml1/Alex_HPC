@@ -45,8 +45,6 @@ our server codes in order to train, and test our model
 11- Open the terminal, and type
 
 ```
-ssh -i /home/"login user"/.ssh/id_rsa username@hpc.bibalex.org
-
 ssh-add ~/.ssh/id_rsa
 
 chmod 600 ~/.ssh/id_rsa
